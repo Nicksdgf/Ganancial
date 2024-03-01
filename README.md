@@ -50,5 +50,4 @@
 <p>•To work in partnership with establishments in providing students with real-world applications with skills and knowledge.</p>
 
 <p>•Employ and train competent teachers to provide students with the best guidance and instruction in developing their skills and increasing their knowledge. 
-</body>
 <html>
