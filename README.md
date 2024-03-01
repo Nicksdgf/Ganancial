@@ -10,7 +10,6 @@
 
 <html>
 <head>
-<title> VISION </title>
 </head>
 <body>
 <h1 style ="text-align:center;background-color:red">VISION</h1>
